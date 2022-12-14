@@ -1,0 +1,5 @@
+export const CHANGE_INPUT = 'CHANGE_INPUT';
+export const ALL_ELEMENTS = 'ALL_ELEMENTS';
+export const SELECT_ELEMENT = 'SELECT_ELEMENT';
+export const ADD_ELEMENT = 'ADD_ELEMENT';
+export const DELETE_ELEMENT = 'DELETE_ELEMENT';
