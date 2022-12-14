@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react10redux.edit-filtr/static/css/main.a6286c2a.css",
+    "main.js": "/react10redux.edit-filtr/static/js/main.34310ef6.js",
+    "static/js/787.8336a9a4.chunk.js": "/react10redux.edit-filtr/static/js/787.8336a9a4.chunk.js",
+    "index.html": "/react10redux.edit-filtr/index.html",
+    "main.a6286c2a.css.map": "/react10redux.edit-filtr/static/css/main.a6286c2a.css.map",
+    "main.34310ef6.js.map": "/react10redux.edit-filtr/static/js/main.34310ef6.js.map",
+    "787.8336a9a4.chunk.js.map": "/react10redux.edit-filtr/static/js/787.8336a9a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6286c2a.css",
+    "static/js/main.34310ef6.js"
+  ]
+}
